@@ -19,3 +19,7 @@ WEEK 2
 
 3. STATISTICS VIEW
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-09-25 at 15 24 23" src="https://github.com/user-attachments/assets/27b6d690-09a6-46b9-b3cb-2bb682ce53b6" />
+
+WEEK 3
+FISH STORE _ GROUP 
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-10-09 at 14 59 07" src="https://github.com/user-attachments/assets/d4f1eea7-9197-41fb-afe0-e591d6eda1cf" />
