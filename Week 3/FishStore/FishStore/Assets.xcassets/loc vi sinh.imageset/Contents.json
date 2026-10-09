@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "1 Set Aquarium Accessories Acrylic Clear Aquarium Fish Tank Water Pump Filter Water Outlet Nozzle.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

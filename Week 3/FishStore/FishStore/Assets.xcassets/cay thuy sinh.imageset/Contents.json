@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Tìm hiểu về cây thủy cúc và cách chăm sóc hồ thủy sinh.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
