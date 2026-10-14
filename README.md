@@ -23,3 +23,7 @@ WEEK 2
 WEEK 3
 FISH STORE _ GROUP 
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-10-09 at 14 59 07" src="https://github.com/user-attachments/assets/d4f1eea7-9197-41fb-afe0-e591d6eda1cf" />
+
+WEEK 4
+FISH MANAGEMENT APP
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-10-14 at 14 02 01" src="https://github.com/user-attachments/assets/241ea664-0b68-4f64-8e60-c9737b700412" />
