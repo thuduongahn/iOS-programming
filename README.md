@@ -26,4 +26,5 @@ FISH STORE _ GROUP
 
 WEEK 4
 FISH MANAGEMENT APP
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-10-14 at 14 02 01" src="https://github.com/user-attachments/assets/241ea664-0b68-4f64-8e60-c9737b700412" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-10-14 at 14 04 56" src="https://github.com/user-attachments/assets/21e83108-476d-4264-bbc9-d9d65eb928fe" />
+
